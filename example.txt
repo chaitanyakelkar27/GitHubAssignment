@@ -1,1 +1,1 @@
-This file provides a basic text example to help us understand the way to add files in our repository.
+This file provides a basic text example to help us understand the way to add files in our repository."Collaborator's modification" 
